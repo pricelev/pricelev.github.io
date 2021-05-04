@@ -1,0 +1,168 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+h1{
+    color: white;
+}
+
+.mainGrid{
+    height: 100%;
+    overflow: auto;
+}
+
+
+.titleArea{
+    background-color: #565656;
+
+}
+.navArea{
+    background-color: #2600BF;
+
+}
+.contentArea{
+    background-color: #565656;
+  
+}
+.footerArea{
+    background-color: #2600BF;
+    color: white;
+}
+
+.classBox{
+    background-color: #c6c6c6;
+    margin-top:10px;
+}
+
+.gameBox{
+    background-color: #c6c6c6;
+    margin-top:10px;
+    margin-bottom: 10px;
+}
+
+
+
+.sizer{
+    height: 10rem;
+}
+
+.titanCard{
+    background-color: #F67D54;
+    opacity: .4;
+    transition: 2s;
+}
+.titanCard:hover{
+    background-color: #F67D54;
+    opacity: 1;
+    box-shadow: 4px 4px 4px #777;
+}
+
+.hunterCard{
+    background-color: #14AEDB;
+    opacity: .4;
+    transition: 2s;
+}
+.hunterCard:hover{
+    background-color: #14AEDB;
+    opacity: 1;
+    box-shadow: 4px 4px 4px #777;
+}
+
+.warlockCard{
+    background-color: #F0CA2D;
+    opacity: .4;
+    transition: 2s;
+}
+
+.warlockCard:hover{
+    background-color: #F0CA2D;
+    opacity: 1;
+    box-shadow: 4px 4px 4px #777;
+}
+
+.gameCard{
+    background-color: #D1F295;
+    opacity: .4;
+    transition: 2s;
+}
+.gameCard:hover{
+    background-color: #D1F295;
+    opacity: 1;
+    box-shadow: 4px 4px 4px #777;
+}
+
+.voidCard{
+    background-color: #b88fb7;
+    opacity: .4;
+    transition: 2s;
+}
+.voidCard:hover{
+    background-color: #b88fb7;
+    opacity: 1;
+    box-shadow: 4px 4px 4px #777;
+}
+
+.arcCard{
+    background-color: #bdfbff;
+    opacity: .4;
+    transition: 2s;
+}
+.arcCard:hover{
+    background-color: #bdfbff;
+    opacity: 1;
+    box-shadow: 4px 4px 4px #777;
+}
+
+.solarCard{
+    background-color: #ffb978;
+    opacity: .4;
+    transition: 2s;
+}
+.solarCard:hover{
+    background-color: #ffb978;
+    opacity: 1;
+    box-shadow: 4px 4px 4px #777;
+}
+
+.stasisCard{
+    background-color: #95baf5;
+    opacity: .4;
+    transition: 2s;
+}
+.stasisCard:hover{
+    background-color: #95baf5;
+    opacity: 1;
+    box-shadow: 4px 4px 4px #777;
+}
+
+
+
+
+.footerLogo{
+    height:2rem;
+    width:3rem;
+    margin-top:5px;
+    margin-bottom: 5px;
+}
+
+.footerLink{
+    color:white;
+}
+
+.footerLink:hover{
+    color: #565656
+}
+
+.sizerStasis{
+    height: 10rem;
+    width: 10rem;
+   
+}
+
+
+
+
+
+
+
